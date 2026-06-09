@@ -1,6 +1,6 @@
 # Logistiq Portal
 
-Mini portail interne de suivi logistique pour environnement de démonstration.
+Mini portail interne de suivi logistique pour environnement de démonstration de dev
 
 ## Lancement rapide
 

@@ -9,3 +9,4 @@ if (!config.qaAccount || !config.qaAccount.username) {
 }
 
 console.log(`Configuration OK for ${config.appName}`);
+console.log(`QA contact: ${config.qaAccount.username}`);

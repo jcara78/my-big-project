@@ -7,8 +7,9 @@ document.querySelector('#login-dev').addEventListener('submit', async (event) =>
   const response = await fetch('/api/login', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload)
+    body: JSON.stringify(payload),
+    
   });
-
+  console.log('Login payload:', payload);
   result.textContent = JSON.stringify(await response.json(), null, 2);
 });

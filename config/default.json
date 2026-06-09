@@ -1,6 +1,6 @@
 {
-  "appName": "Logistiq Portal",
-  "owner": "Operations Demo Team",
+  "appName": "Logistiq Portal DEV",
+  "owner": "Operations Demo Team DEV",
   "features": {
     "shipmentTimeline": true,
     "qaLogin": true,
