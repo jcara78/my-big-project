@@ -1,5 +1,5 @@
 {
-  "name": "logistiq-portal",
+  "name": "logistiq-portal-dev",
   "version": "0.3.1",
   "private": true,
   "description": "Internal logistics micro-portal used for shipment tracking demos.",
