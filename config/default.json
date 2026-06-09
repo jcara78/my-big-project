@@ -1,0 +1,13 @@
+{
+  "appName": "Logistiq Portal",
+  "owner": "Operations Demo Team",
+  "features": {
+    "shipmentTimeline": true,
+    "qaLogin": true,
+    "auditExport": false
+  },
+  "qaAccount": {
+    "username": "jcara78",
+    "note": "Temporary account used during recette; password is injected through env file."
+  }
+}
